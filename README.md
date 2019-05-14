@@ -5,7 +5,7 @@
 * Jvm 1.8 ou superior
 
 ## Excutando o projeto
-* Excutar `mvn exec:java` no root de projeto, esse comando irá iniciar a aplicação na porta 8081.
+* Excutar `mvn package exec:java` no root de projeto, esse comando irá iniciar a aplicação na porta 8081.
 
 ## Serviços disponivéis
 
